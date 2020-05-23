@@ -23,7 +23,7 @@ export class CourseListComponent implements OnInit {
         price: 150,
         code: '123',
         duration: 190,
-        rating: 5,
+        rating: 3,
         realeseDate: '12/12/1990'
 
       },
@@ -34,7 +34,7 @@ export class CourseListComponent implements OnInit {
         price: 100,
         code: '123',
         duration: 100,
-        rating: 4.9,
+        rating: 4.5,
         realeseDate: ' 09/08/1995'
 
       }
